@@ -3,31 +3,31 @@
 
 ## 0 
 ### 프로젝트 관련 없는 업무 공유  
-https://github.com/predict-interactive/predict-workspace
+https://github.com/predict-interactive/predict-workspace/issues
 
   
 ##  1
 
-https://github.com/predict-interactive/05.vue_RPM-Service
+https://github.com/predict-interactive/05.vue_RPM-Service/issues
 
-https://github.com/predict-interactive/04.vue_GCH-User
+https://github.com/predict-interactive/04.vue_GCH-User/issues
 
-https://github.com/predict-interactive/broccoli_ios
+https://github.com/predict-interactive/broccoli_ios/issues
 
-https://github.com/predict-interactive/broccoliCare-20211126---and
+https://github.com/predict-interactive/broccoliCare-20211126---and/issues
 
-https://github.com/predict-interactive/SERVER-GCH-RPM
+https://github.com/predict-interactive/SERVER-GCH-RPM/issues
 
-https://github.com/predict-interactive/SERVER-GCH-USER
+https://github.com/predict-interactive/SERVER-GCH-USER/issues
 
-https://github.com/predict-interactive/SERVER-GCH-mssql-script  
+https://github.com/predict-interactive/SERVER-GCH-mssql-script/issues  
 
   
 ## 2
 
-https://github.com/predict-interactive/vue_metaVerse_front
+https://github.com/predict-interactive/vue_metaVerse_front/issues
 
-https://github.com/predict-interactive/vue_metaVerse_admin
+https://github.com/predict-interactive/vue_metaVerse_admin/issues
 
 
 ## 100
