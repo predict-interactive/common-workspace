@@ -40,7 +40,11 @@ https://github.com/predict-interactive/jungnang_safe_screen_admin/issues
 
 ## 4
 
+https://github.com/predict-interactive/SERVER-HIV-KAKAO/issues
 
+https://github.com/predict-interactive/HIV_kakao_channel_user/issues
+
+https://github.com/predict-interactive/hiv-admin/issues
 
 ## 100
 ### 깃 협업 연습장  
