@@ -17,11 +17,7 @@ https://github.com/predict-interactive/broccoli_ios/issues
 
 https://github.com/predict-interactive/broccoliCare-20211126---and/issues
 
-https://github.com/predict-interactive/SERVER-GCH-RPM/issues
-
-https://github.com/predict-interactive/SERVER-GCH-USER/issues
-
-https://github.com/predict-interactive/SERVER-GCH-DEV-API/issues
+https://github.com/predict-interactive/SERVER-RPM-WAS/issues
 
 https://github.com/predict-interactive/SERVER-GCH-mssql-script/issues  
 
