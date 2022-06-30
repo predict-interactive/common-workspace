@@ -30,6 +30,8 @@ https://github.com/predict-interactive/vue_metaVerse_admin/issues
 
 https://github.com/predict-interactive/was2.zplab.co.kr/issues
 
+https://github.com/predict-interactive/SERVER-METAVERSE-CHAT/issues
+
 
 
 ## 2-1
