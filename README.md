@@ -23,6 +23,8 @@ https://github.com/predict-interactive/SERVER-RPM-WAS/issues
 
 https://github.com/predict-interactive/SERVER-GCH-mssql-script/issues  
 
+https://github.com/predict-interactive/COMM-Mail-sender-SMS/issues
+
   
 ## 2
 
