@@ -9,6 +9,8 @@ https://github.com/predict-interactive/predict-workspace/issues
   
 ##  1
 
+[05 운영이슈-통합관리 바로가기](https://github.com/predict-interactive/05.vue_RPM-Service/issues/150)
+
 https://github.com/predict-interactive/01.vue_GCH_Admin/issues
 
 https://github.com/predict-interactive/04.vue_GCH-User/issues
