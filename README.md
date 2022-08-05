@@ -49,6 +49,12 @@ https://github.com/predict-interactive/vue_Cyclogest_Consent_Form_Admin/issues
 https://github.com/predict-interactive/vue_Cyclogest_Consent_Form/issues
 
 
+## 2-2 
+
+https://github.com/predict-interactive/was2.zplab.co.kr/issues
+
+https://github.com/predict-interactive/vue_vuetify_grow_diary/issues
+
 
 ## 3
 
